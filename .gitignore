@@ -1,0 +1,5 @@
+# Data file extensions
+**.csv
+**.csv.gz
+**.parquet 
+**.geojson
